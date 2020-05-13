@@ -3,3 +3,5 @@ Mars is cold, but I love the red color.
 Number of moons: 2
 Humidity: usually dry
 Color: mostly red
+Arrived: 2020-05-12
+
